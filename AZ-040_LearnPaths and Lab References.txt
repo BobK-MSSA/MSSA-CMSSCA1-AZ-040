@@ -1,0 +1,70 @@
+As of:  January 2026
+Skillable Virtual Hands-on Labs for AZ-040T00 Automating Administration with Windows PowerShell
+
+	1. Learn Path (Courseware) Reference:  Courseware link: https://learn.microsoft.com/training/courses/az-040t00?WT.mc_id=ilt_partner_webpage_wwl&ocid=6226658#study-guide
+
+	2. Lab Reference:  https://github.com/MicrosoftLearning/AZ-040T00-Automating-Administration-with-PowerShell/tree/master/Instructions/Labs
+	**IMPORTANT**
+		-Only use GitHub listed labs as a REFERENCE, use the lab guide imbedded into the hands-on lab interface (Instructions) to do all hands-on labs.
+
+
+Labs Available to Launch (Skillable)
+- To do Labs 1 thru 8, Launch Lab:  AZ-040T00-A Automating Administration with PowerShell [Cloud Slice Provided], Labs 1-8 (Lab can be saved)
+- To do Lab 9, Launch Lab:- AZ-040T00-A Automating Administration with PowerShell [Cloud Slice Provided], Lab 9 (Lab cannot be saved)
+- To do Labs 10 and 11, Launch Lab:- AZ-040T00-A Automating Administration with PowerShell [Cloud Slice Provided], Labs 10-11 (Lab cannot be saved)
+
+
+Learn Paths and Labs Reference Information
+
+- Learn Path (1) Get started with Windows PowerShell
+	- Lab:  - LAB_01_Configuring_Windows_PowerShell_finding_and_running_commands
+
+- Learn Path (2) Maintain system administration tasks in Windows PowerShell
+	- Lab:  - LAB_02_Administering_local_systems_using_PowerShell
+
+- Learn Path (3) Work with the Windows PowerShell pipeline
+	- Labs:
+		- LAB_03A_Working_with_Windows_PowerShell_Pipeline
+		- LAB_03B_Working_with_Windows_PowerShell_Pipeline
+
+- Learn Path (4) Work with PowerShell providers and PowerShell drives in Windows PowerShell
+	- Lab:  - LAB_04_Using_PSProviders_and_PSDrives
+
+- Learn Path (5) Query management information by using Common Information Model and Windows Management Instrumentation
+	- Lab:   LAB_05_Making_changes_by_using_CIM_and_WMI
+
+- Learn Path (6) Use variables, arrays, and hash tables in Windows PowerShell scripts
+	- Lab:  - LAB_06_Working_with_variables_arrays_and_hash_tables
+
+- Learn Path (7) Create and modify scripts by using Windows PowerShell
+	- Lab:  - LAB_07_Windows_PowerShell_Scripting
+
+- Learn Path (8) Administer remote computers by using Windows PowerShell
+	- Labs:  - LAB_08_Performing_remote_administration_with_PowerShell
+
+- Learn Path (9) Manage cloud resources by using Windows PowerShell
+	- Lab:  - LAB_09_Azure_resource_management_with_PowerShell
+
+- Learn Path (10) Manage Microsoft 365 services by using Windows PowerShell
+	- Lab:  - LAB_10_Managing_Microsoft_365_services_with_PowerShell
+
+- Learn Path (11) Create and manage background jobs and scheduled jobs in Windows PowerShell
+	- Lab:  - LAB_11_Using_background_jobs_and_scheduled_jobs
+
+
+
+Learning Paths
+- Learn Path (1) Get started with Windows PowerShell
+- Learn Path (2) Maintain system administration tasks in Windows PowerShell
+- Learn Path (3) Work with the Windows PowerShell pipeline
+- Learn Path (4) Work with PowerShell providers and PowerShell drives in Windows PowerShell
+- Learn Path (5) Query management information by using Common Information Model and Windows Management Instrumentation
+- Learn Path (6) Use variables, arrays, and hash tables in Windows PowerShell scripts
+- Learn Path (7) Create and modify scripts by using Windows PowerShell
+- Learn Path (8) Administer remote computers by using Windows PowerShell
+- Learn Path (9) Manage cloud resources by using Windows PowerShell
+- Learn Path (10) Manage Microsoft 365 services by using Windows PowerShell
+- Learn Path (11) Create and manage background jobs and scheduled jobs in Windows PowerShell
+
+-- End of Document --
+
